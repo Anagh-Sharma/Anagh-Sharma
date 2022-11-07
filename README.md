@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anagh-Sharma
 - 👀 I’m interested in Machine Learning and Full-Stack Web Development
 - 🌱 I’m currently studying React.js and Malware Detection
-- 💞️ I’m looking to collaborate on ML researcha and Web Development projects.
+- 💞️ I’m looking to collaborate on ML research and Web Development projects.
 - 📫 How to reach me 📧 Email: anagh2000@gmail.com
 
 <!---
